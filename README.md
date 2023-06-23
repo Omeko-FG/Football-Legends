@@ -1,4 +1,7 @@
+![ezgif com-video-to-gif (2)](https://github.com/Omeko-FG/football-legends-REACT/assets/119002766/e79e5b15-7567-4683-85ae-67c66cbfac13)
+
 <h2>FOOTBALL LEGENDS<h2/>
+
 <BR/>
 <p>
 1. FUTBOL EFSANELERİNİN OLDUĞU BİR PROJE<BR/>
